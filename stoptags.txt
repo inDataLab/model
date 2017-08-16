@@ -1,0 +1,12 @@
+﻿
+Punctuation
+Foreign
+Alpha
+Number
+Unknown
+KoreanParticle
+Hashtag
+ScreenName
+NounPrefix
+URL
+Email
